@@ -1,0 +1,9 @@
+/.idea
+/media
+/bachelor_web/__pycache__
+*.sqlite3
+/detection/__pycache__
+/detection/migrations/__pycache__
+models/cnn_model_v1.keras
+models/cnn_model_v2.keras
+models/cnn_model_v3.keras
